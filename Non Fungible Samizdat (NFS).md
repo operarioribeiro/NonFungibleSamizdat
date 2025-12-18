@@ -1,10 +1,10 @@
-# [Non-Fungible Samizdat (NFS)]
+# [Non-Fungible Samizdat (NFS)](https://github.com/operarioribeiro/NonFungibleSamizdat)
 
 ## Open Project:
 
 **Non-Fungible Samizdat (NFS)** is an [open source](https://en.wikipedia.org/wiki/Open_source) [blockchain](https://en.wikipedia.org/wiki/Blockchain) [peer to peer (P2P)](https://en.wikipedia.org/wiki/Peer-to-peer) [curatorship](https://en.wikipedia.org/wiki/Curator) [rating system](https://en.wikipedia.org/wiki/Rating_system) inspired by [samizdat](https://en.wikipedia.org/wiki/Samizdat) anonymous publications.
 
-[!image]()
+[!image](https://github.com/operarioribeiro/NonFungibleSamizdat/blob/main/Non%20Fungible%20Samizdat%20(NFS).png)
 
 ## Open Methodology:
 
